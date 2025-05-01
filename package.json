@@ -1,0 +1,20 @@
+{
+  "name": "webhook-in-nodejs",
+  "version": "1.0.0",
+  "description": "whatsapp business api webhook",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "shamil"
+  ],
+  "author": "shamilzbr",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.9.0",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0"
+  }
+}
